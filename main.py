@@ -26,7 +26,7 @@ async def creat_lobby(connection):
                 "spectatorPolicy": "AllAllowed",
                 "teamSize": 5
             },
-            "lobbyName": "YZJ好小",
+            "lobbyName": "TEST",
             "lobbyPassword": ""
         },
         "isCustom": True
